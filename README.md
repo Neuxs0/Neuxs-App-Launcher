@@ -12,12 +12,12 @@ I won't be updating the game consistently and it's just me and im still learning
 
 # When the game gets too large
 
-What I mean by "too large" is when the files are too large to upload to github. I will be moving the game to a website which i am hoping to be (gamename).cf.
+What I mean by "too large" is when the files are too large to upload to github. I will be moving the game to a website which i am hoping to be worldofbullets.cf.
 
-# Who is working on this?
+# Who is working on this game?
 
 Currently I'm the only person working on this, Neuxs.
 
-# How do i trust this is safe and not a virus?
+# How do I trust this is safe and not a virus?
 
 In this site, you can see all the code included in this game. If you can't tell what code is dangerous or not, you could have somebody who can check the code.
