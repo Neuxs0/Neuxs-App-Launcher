@@ -12,7 +12,7 @@ I won't be updating the game consistently and it's just me and im still learning
 
 # When the game gets too large
 
-What I mean by "too large" is when the files are too large to upload to github. I will be moving the game to a website which i am hoping to be worldofbullets.cf.
+What I mean by "too large" is when the files are too large to upload to github. I will be moving the game to a website which i am hoping to be worldofbullets.cf. Once that happens, I most likely will abondon this github page, mabey deleting the repo.
 
 # Who is working on this game?
 
