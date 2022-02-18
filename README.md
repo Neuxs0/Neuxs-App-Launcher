@@ -17,3 +17,7 @@ What I mean by "too large" is when the files are too large to upload to github. 
 # Who is working on this?
 
 Currently I'm the only person working on this, Neuxs.
+
+# How do i trust this is safe and not a virus?
+
+In this site, you can see all the code included in this game. If you can't tell what code is dangerous or not, you could have somebody who can check the code.
