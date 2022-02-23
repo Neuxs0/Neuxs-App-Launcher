@@ -13,3 +13,7 @@ In this site, you can see all the code included in this all of these games/apps.
 # Why won't any of the .jar files run? 
 
 Most of the time it's just becuase you dont have the lastest version of java installed.
+
+# What do I do if I want to suggest something?
+
+You can email me at NeuxsYT@gmail.com, if you want credit, don't worry! I will give credit to everyone who suggests something and I make it. Please put a way/name for me to credit you with.
