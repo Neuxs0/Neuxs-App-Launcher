@@ -17,3 +17,7 @@ Most of the time it's just becuase you dont have the lastest version of java ins
 # What do I do if I want to suggest something?
 
 You can email me at NeuxsYT@gmail.com, if you want credit, don't worry! I will give credit to everyone who suggests something and I make it. Please put a way/name for me to credit you with.
+
+# Why is it on github?
+
+The official downloads are on [website not up yet] and here you can see the source code.
