@@ -1,1 +1,4 @@
-# version alpha 0
+# Snek alpha 1
+
+* Added gui
+* Made .jar standalone
