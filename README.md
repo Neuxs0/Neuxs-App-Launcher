@@ -21,3 +21,7 @@ You can email me at NeuxsYT@gmail.com, if you want credit, don't worry! I will g
 # Why is it on github?
 
 The official downloads are on [website not up yet] and here you can see the source code.
+
+#when will it be done?
+
+Im current working on it as a side project and if i havent updated it in a while it's because ive been working on other things. So it's going to be a while untill it reaches beta/full release
